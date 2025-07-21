@@ -2,8 +2,6 @@
 
 ## Contributors
 - Mohammad Ali
-- Abdul Momin
-- Kashif Ali Khokhar
 
 A simple command-line social media platform implemented in C++. This platform allows users to sign up, create posts, add friends, join groups, and interact with other users through comments, likes, and profile viewing.
 
